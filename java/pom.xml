@@ -10,7 +10,7 @@
 
     <groupId>com.facebook.thirdparty</groupId>
     <artifactId>libsvm</artifactId>
-    <version>3.18.1-SNAPSHOT</version>
+    <version>3.18.1</version>
 
     <name>libsvm</name>
     <description>Presto compatible fork of libsvm</description>
@@ -27,6 +27,7 @@
 
     <scm>
         <connection>scm:git:git@github.com/cberner/libsvm.git</connection>
+        <developerConnection>scm:git:git@github.com:cberner/libsvm.git</developerConnection>
         <url>https://github.com/cberner/libsvm</url>
         <tag>HEAD</tag>
     </scm>
